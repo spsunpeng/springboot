@@ -1,0 +1,10 @@
+person:
+  name: sunpeng
+  age: 10
+  like:
+    - book
+    - girl
+
+spring:
+  profiles:
+    active: sit
